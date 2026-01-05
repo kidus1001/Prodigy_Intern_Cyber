@@ -144,7 +144,7 @@ while choice:
         print("Encrypted text: ", encryptedText) 
     
     else:
-        for shifts in range (1, 25):
+        for shifts in range (1, 26):
             decryptedText = ""
             for ch in text:
                 ePos = (helperGetKey(ch.lower()) - shifts) % 26
