@@ -29,6 +29,8 @@ This project is intended strictly for learning, experimentation, and testing in 
 
 - Python 3.8+
 - pip
+- pynput
+- scapy
 
 ---
 
@@ -36,8 +38,9 @@ This project is intended strictly for learning, experimentation, and testing in 
 
 ```text
 Prodigy_Intern_Cyber/
-├── task1_caesar_cipher/
-├── task2_image_encryption/
-├── task3_password_checker/
-├── task4_key_event_logger/
+├── Task - 1 - Caesar_Cipher/
+├── Task - 2 - Image_Encryption/
+├── Task - 3 - Password_Complexity_Checker/
+├── Task - 4 - Key_Logger/
+├── Task - 5 - Network_Packet_Analyzer/
 └── README.md
